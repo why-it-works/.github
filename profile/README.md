@@ -1,6 +1,6 @@
 # 👋 Welcome to [Why It Works]
 
-We're a group of friends and developers from Hyderabad, India, united by our passion for building innovative, production-grade software.&#8203;:contentReference[oaicite:0]{index=0}
+We're a group of friends and developers from Hyderabad, India, united by our passion for building innovative, production-grade software.
 
 ## 🚀 Our Mission
 
@@ -21,12 +21,10 @@ We're always open to new ideas and collaborators. Whether you're a seasoned deve
 
 Contribute: Check out our contribution guidelines.​
 
-Connect: Join our discussions on [Discord/Slack/Forum Link].​
+Connect: Join our discussions on [Discord].​
 
 Collaborate: Participate in our upcoming projects and initiatives.
-## 📫 Contact Us
 
-Have questions or suggestions? Reach out to us at contact@yourorganization.com.
 
 ---
 
