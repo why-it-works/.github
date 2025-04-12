@@ -24,6 +24,8 @@ To create high-quality, impactful projects that solve real-world problems and fo
 ## 🤝 Join Us
 We're always open to new ideas and collaborators. Whether you're a seasoned developer or just starting out, there's a place for you here.​
 
+- **Join**: the GitHub Org by raising an issue : [Invite Link](https://github.com/why-it-works/Support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+why_it_works+GitHub+Community+Organization) (you will receive an Email invitation)
+
 - **Contribute**: Check out our contribution guidelines.​
 
 - **Connect**: Join our discussions on [community page](https://github.com/orgs/why-it-works/discussions).​
