@@ -1,3 +1,8 @@
+<!-- Logo -->
+<p align="center">
+  <img src="/why_it_works.png" alt="Your Organization Logo" width="150" style="border-radius: 50%;"  />
+</p>
+
 # 👋 Welcome to [Why It Works]
 
 We're a group of friends and developers from Hyderabad, India, united by our passion for building innovative, production-grade software.
@@ -8,26 +13,29 @@ To create high-quality, impactful projects that solve real-world problems and fo
 
 ## 💡 What We Do
 
-While we're just getting started, our focus areas include:​
+- While we're just getting started, our focus areas include:​
 
-Developing open-source tools and applications.​
+- Developing open-source tools and applications.​
 
-Exploring new technologies and frameworks.​
+- Exploring new technologies and frameworks.​
 
-Sharing knowledge through collaborative learning.
+- Sharing knowledge through collaborative learning.
 
 ## 🤝 Join Us
 We're always open to new ideas and collaborators. Whether you're a seasoned developer or just starting out, there's a place for you here.​
 
-Contribute: Check out our contribution guidelines.​
+- **Contribute**: Check out our contribution guidelines.​
 
-Connect: Join our discussions on [community page](https://github.com/orgs/why-it-works/discussions).​
+- **Connect**: Join our discussions on [community page](https://github.com/orgs/why-it-works/discussions).​
 
-Collaborate: Participate in our upcoming projects and initiatives.
+- **Collaborate**: Participate in our upcoming projects and initiatives.
 
 
 ---
 
 ​Let's build something amazing together!
+
+
+
 
 
