@@ -21,7 +21,7 @@ We're always open to new ideas and collaborators. Whether you're a seasoned deve
 
 Contribute: Check out our contribution guidelines.​
 
-Connect: Join our discussions on [Discord].​
+Connect: Join our discussions on [community page](https://github.com/orgs/why-it-works/discussions).​
 
 Collaborate: Participate in our upcoming projects and initiatives.
 
