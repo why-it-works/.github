@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img src="/why_it_works.png" alt="Your Organization Logo" width="150" style="border-radius: 50%;"  />
+    <img width="568" alt="Screenshot 2025-04-04 at 11 07 01 PM" src="https://github.com/user-attachments/assets/e42eb07e-6dd8-49bb-a453-e6232b1707f9" />
 </p>
 
 # 👋 Welcome to [Why It Works]
